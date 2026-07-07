@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #163E63;
+    color: white;
+    text-align: center;
+    padding: 48px 20px;
+}
+
+header h1 {
+    margin: 0 0 16px 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+header p {
+    margin: 0;
+    font-size: 15px;
+}
+
+main {
+    padding: 40px;
+}
+
+main h2 {
+    color: #163E63;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    margin: 0 0 15px 0;
+}
+
+.autor {
+    font-size: 15px;
+    color: #2b2b2b;
+    margin: 0 0 20px 0;
+}
+
+.conteudo {
+    font-size: 15px;
+    color: #2b2b2b;
+    line-height: 1.5;
+    margin: 0;
+}
